@@ -20,7 +20,7 @@ Analysis of customer shopping behavior to understand what drives purchase decisi
 3. **Visualization (Power BI)** — built an interactive dashboard to explore the findings
 
 ## Dashboard
-![Dashboard]()
+![Dashboard](Dashboard.png)
 
 ## Repository Structure
 ```
@@ -32,7 +32,7 @@ Analysis of customer shopping behavior to understand what drives purchase decisi
 ├── data/                             # Dataset
 │   └── customer_shopping_behavior.csv
 ├── images/                           # Dashboard screenshot
-│   └── dashboard.png
+│   └── Dashboard.png
 └── README.md
 ```
 
@@ -43,5 +43,4 @@ Analysis of customer shopping behavior to understand what drives purchase decisi
 4. Run the queries in `sql/customer_behavior_sql_queries.sql` against your database
 5. Open `powerbi/customer_behavior_dashboard.pbix` in Power BI Desktop to view the dashboard
 
-## Author
-[Your Name]
+
